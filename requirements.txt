@@ -1,0 +1,18 @@
+# Core AI + Audio/Video
+openai-whisper==20231117
+torch>=2.0.0
+torchaudio>=2.0.0
+numpy<2.0.0
+
+# Video Processing
+opencv-python-headless==4.8.1.78
+ffmpeg-python==0.2.0
+
+# OCR
+pytesseract==0.3.10
+Pillow==10.1.0
+
+# Utilities
+requests==2.31.0
+python-dotenv==1.0.0
+soundfile==0.12.1

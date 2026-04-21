@@ -1,5 +1,4 @@
 
-
 ````md
 # 🎥 Video/Audio Transcription & Notes Generator
 
@@ -272,4 +271,5 @@ For educational and personal use.
 * OpenCV
 * OpenRouter / Gemini / OpenAI
 
+```
 
